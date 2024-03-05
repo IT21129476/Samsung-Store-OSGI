@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: MobileAccessoriesConsumer
+Bundle-SymbolicName: mobileAccessoriesConsumer
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: mobileaccessoriesconsumer.Activator
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: mobileAccessoriesConsumer
+Import-Package: org.osgi.framework;version="1.3.0", mobileaccessoriesproducer
+
